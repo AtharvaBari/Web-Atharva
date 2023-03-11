@@ -56,6 +56,10 @@ nav ul li a:hover{
 
 }
 
+nav ul li ul a{
+  colour: #f9004d
+}
+
 .btn{
 	background-color: #f9004d;
 	color: white;
